@@ -244,10 +244,10 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/go.png",
-      width: 60,
-      height: 60,
+      skill_name: "Java",
+      Image: "/java-logo.png",
+      width: 90,
+      height: 90,
     },
   ];
   
