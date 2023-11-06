@@ -11,15 +11,15 @@ const Navbar = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/NavLogo.png"
+            src="/Awais-logo-vertical.png"
             alt="logo"
-            width={70}
-            height={70}
-            className="cursor-pointer hover:animate-slowspin"
+            width={120}
+            height={50}
+            className="cursor-pointer hover:animate-slowspin flex flex-row items-center justify-center"
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            WebChain Dev
+            
           </span>
         </a>
 
